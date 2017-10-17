@@ -1,4 +1,4 @@
-Python进阶 
+Python进阶  8小时自动同步成功
 =======
 
 [![Join the chat at https://gitter.im/eastlakeside/interpy-zh](https://badges.gitter.im/eastlakeside/interpy-zh.svg)](https://gitter.im/eastlakeside/interpy-zh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
