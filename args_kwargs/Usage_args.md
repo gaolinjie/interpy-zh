@@ -7,7 +7,7 @@
 这里有个例子帮你理解这个概念:
 
 
-```Python
+```python
 def test_var_args(f_arg, *argv):
     print("first normal arg:", f_arg)
     for arg in argv:
@@ -18,7 +18,7 @@ test_var_args('yasoob', 'python', 'eggs', 'test')
 
 这会产生如下输出:
 
-```Python
+```python
 first normal arg: yasoob
 another arg through *argv: python
 another arg through *argv: eggs
